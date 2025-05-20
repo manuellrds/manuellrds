@@ -4,7 +4,6 @@
   </a>
 </div>
 
-
 <h3 align="center">💫 Olá, eu sou Emanuel Rodrigues</h3>
 
 <p align="left">
@@ -17,41 +16,57 @@ Sou um desenvolvedor focado em backend, apaixonado por resolver problemas com c�
  <h3>Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:manuell.ar@outlook.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/emanuel-rodrigues-996528212/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/emanuel-rodrigues-996528212/)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox-browser&logoColor=FF00F6)](https://seu-portfolio-aqui.com)
 </div>
 
 <h3 align="left">🛠️💻 Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" />
 </div>
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>⚡ GitHub Stats</h3>
   <a href="https://github.com/manuellrds/github-readme-stats">
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manuellrds&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manuellrds&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
   </a>
   <a href="https://github.com/manuellrds/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manuellrds&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
   </a>
 </div>
+
+#
+
+### 📈 Gráfico de contribuição semanal
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manuellrds&theme=tokyonight&hide_border=true" />
+
+#
+
+### 👨‍💻 Projetos em destaque
+[![Barbearia App](https://img.shields.io/badge/-Barbearia%20App-000?style=for-the-badge&logo=vercel&logoColor=FF00F6)](https://github.com/manuellrds/barbearia-app)  
+[![MedConnect](https://img.shields.io/badge/-MedConnect-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/manuellrds/medconnect)
+
+#
+
+### ⏳ Loading...
+<img src="https://raw.githubusercontent.com/klaaspieter/github-contribution-activity/main/activity.svg" alt="Loading animation">
 
 #
 
