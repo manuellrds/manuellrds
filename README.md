@@ -15,8 +15,8 @@ Sou um desenvolvedor focado em backend, apaixonado por resolver problemas com c�
 <div style="text-align: left;" align="left">
  <h3>Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:seuemail@exemplo.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/seulinkedin/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:manuell.ar@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](/https://www.linkedin.com/in/emanuel-rodrigues-996528212/)
 </div>
 
 <h3 align="left">🛠️💻 Technologies & Tools</h3>
