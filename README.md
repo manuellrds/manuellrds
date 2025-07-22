@@ -40,11 +40,6 @@ Sou um desenvolvedor focado em backend, apaixonado por resolver problemas com c�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" />
 </div>
 
-### 📈 Gráfico de contribuição semanal
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manuellrds&theme=tokyonight&hide_border=true" />
-
-#
-
 ### 👨‍💻 Projetos em destaque
 [![Barbearia App](https://img.shields.io/badge/-Barbearia%20App-000?style=for-the-badge&logo=vercel&logoColor=FF00F6)](https://github.com/manuellrds/barbearia-app)  
 [![MedConnect](https://img.shields.io/badge/-MedConnect-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/manuellrds/medconnect)
